@@ -5,6 +5,10 @@ body{
 
 h1{
   margin: 50px auto 0;
+  font-family: 'Kaushan Script', cursive;
+  font-family: 'Sansita Swashed', cursive;
+  font-size: 5.625rem;
+  color: #54e346;
 }
 
 h2{
@@ -28,6 +32,7 @@ hr{
   width: 5%;
 }
 .top-container{
+  background-color: #bce6eb;
   position:relative;
   padding-top: 100px;
 }
